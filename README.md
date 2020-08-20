@@ -1,5 +1,5 @@
 # move-repo
-Bash script for moving a container between repositories. If the source container provided does not include a tag it will most likely try to use the default tag for the container.
+Bash script for moving a container between repositories.
 
 **Prerequisites**
 * Docker CLI with experimental features enabled
